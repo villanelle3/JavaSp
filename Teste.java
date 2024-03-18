@@ -20,3 +20,4 @@ public class Teste {
 
 // javac Teste.java
 // java Teste
+// del Teste.class
